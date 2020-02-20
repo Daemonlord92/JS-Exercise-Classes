@@ -58,7 +58,7 @@ class Person {
   };
 
   toString() {
-    return (`${this.name, this.age}`);
+    return (`${this.name}, ${this.age}`);
   };
 }
 
